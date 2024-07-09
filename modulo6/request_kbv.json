@@ -1,0 +1,138 @@
+{
+	"clientVersion": "1.0",
+	"request": "RequestLoadConfigurationFromAvd",
+	"apiVersion": "2.2.0.0",
+	"conflictMode": 0,
+	"propertiesToAttribute": [
+		6,
+		107,
+		425,
+		263,
+		241,
+		449,
+		192
+	],
+	"addMarketingCodes": true,
+	"avdConfiguration": {
+		"otherCodes": [
+			{
+				"codeNumber": "XI4"
+			},
+			{
+				"codeNumber": "X44"
+			},
+			{
+				"codeNumber": "VL9"
+			},
+			{
+				"codeNumber": "VL8"
+			},
+			{
+				"codeNumber": "VA6"
+			},
+			{
+				"codeNumber": "SA5"
+			},
+			{
+				"codeNumber": "S04"
+			},
+			{
+				"codeNumber": "RN4"
+			},
+			{
+				"codeNumber": "OM7"
+			},
+			{
+				"codeNumber": "NA6"
+			},
+			{
+				"codeNumber": "JW0"
+			},
+			{
+				"codeNumber": "IA0"
+			},
+			{
+				"codeNumber": "FC4"
+			},
+			{
+				"codeNumber": "FC2"
+			},
+			{
+				"codeNumber": "F62"
+			},
+			{
+				"codeNumber": "EH3"
+			},
+			{
+				"codeNumber": "EH2"
+			},
+			{
+				"codeNumber": "EF8"
+			},
+			{
+				"codeNumber": "CO6"
+			},
+			{
+				"codeNumber": "CD3"
+			}
+		],
+		"nsr1Codes": [],
+		"nsrExtension": "EE0",
+		"paintCodes": [
+			{
+				"codeNumber": "0400"
+			}
+		],
+		"baumuster": "84008515",
+		"sr1Codes": [],
+		"tireCodes": [
+			{
+				"amount": "3",
+				"codeNumber": "E39NJA 8F"
+			},
+			{
+				"amount": "4",
+				"codeNumber": "E39NJA 8F"
+			}
+		],
+		"sr0Codes": [
+			{
+				"codeNumber": "VH8"
+			},
+			{
+				"codeNumber": "IL8"
+			},
+			{
+				"codeNumber": "IH7"
+			},
+			{
+				"codeNumber": "ID0"
+			},
+			{
+				"codeNumber": "DY1"
+			}
+		]
+	},
+	"configurationContext": {
+		"configurationDate": 20230801,
+		"overrideSystemDate": 20230801,
+		"pricingDate": 20240617,
+		"@type": "ConfigurationContext",
+		"dataPool": {
+			"organizationId": 232,
+			"creator": "MDS PROD 2.4.0.7",
+			"dataVersion": "20240613155807",
+			"dataPoolId": "vvb5k",
+			"productStructureId": 304,
+			"released": true,
+			"structureVersion": "2.3.0.0"
+		},
+		"priceType": 68,
+		"salesSystem": "C",
+		"dataLanguageCode": "en",
+		"providePackageDiscount": true,
+		"correlationId": 336,
+		"taxDate": 20240617,
+		"countryId": 577
+	}
+}
